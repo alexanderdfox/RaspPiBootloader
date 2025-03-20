@@ -1,6 +1,6 @@
 Public Domain
 
-Not testsed yet
+Not tested yet
 
 Bootloader for Raspiberry Pi 3 and 4
 ✅ Load OS kernels from the SD card
