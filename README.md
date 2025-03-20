@@ -7,3 +7,4 @@ Bootloader for Raspiberry Pi 3 and 4
 ✅ Display text output over HDMI and UART
 ✅ Include a graphical boot menu
 ✅ Use an encrypted boot partition
+encrypted ext4 partition using dm-crypt (LUKS) for the kernel storage
